@@ -14,8 +14,8 @@ https://drive.google.com/drive/folders/1RVLc4yg5IKTq3OSht6wm1Cdjq9jOLEqy?usp=sha
 
 Vous devez vous appropier ce projet, c'est-à-dire que vous devez;
 
-- le déplacer vers un dépôt Git appartenant à vous ou votre binôme
-- inviter votre binôme à collaborer au projet 
+- le déplacer vers un dépôt Git appartenant à vous
+- inviter votre binôme à collaborer au projet, si vous êtes tout seul vous incarnerez les 2 rôles
 
 Pour cela commencer par cloner ce projet :
 ```
