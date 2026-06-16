@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.myservice.controllers.RentServiceRestTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-06-16T15:53:07" hostname="Titan" time="0.35">
+  <properties/>
+  <testcase name="testGetCars()" classname="com.example.myservice.controllers.RentServiceRestTest" time="0.303"/>
+  <testcase name="testAddCar()" classname="com.example.myservice.controllers.RentServiceRestTest" time="0.019"/>
+  <testcase name="testGetCarByPlateNumber()" classname="com.example.myservice.controllers.RentServiceRestTest" time="0.02"/>
+  <system-out><![CDATA[2026-06-16T17:53:07.531+02:00  INFO 10374 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.example.myservice.controllers.RentServiceRestTest]: RentServiceRestTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2026-06-16T17:53:07.543+02:00  INFO 10374 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.example.myservice.MyServiceApplication for test class com.example.myservice.controllers.RentServiceRestTest
+2026-06-16T17:53:07.565+02:00  INFO 10374 --- [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-06-16T17:53:07.566+02:00  INFO 10374 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-06-16T17:53:07.568+02:00  INFO 10374 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2026-06-16T17:53:07.863+02:00  INFO 10374 --- [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-06-16T17:53:07.864+02:00  INFO 10374 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-06-16T17:53:07.866+02:00  INFO 10374 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2026-06-16T17:53:07.885+02:00  INFO 10374 --- [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2026-06-16T17:53:07.887+02:00  INFO 10374 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2026-06-16T17:53:07.888+02:00  INFO 10374 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

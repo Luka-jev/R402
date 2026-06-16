@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.myservice.services.CarServiceTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-06-16T15:53:07" hostname="Titan" time="0.007">
+  <properties/>
+  <testcase name="testAddMultipleCars()" classname="com.example.myservice.services.CarServiceTest" time="0.0"/>
+  <testcase name="testGetCars()" classname="com.example.myservice.services.CarServiceTest" time="0.001"/>
+  <testcase name="testGetCarNotFound()" classname="com.example.myservice.services.CarServiceTest" time="0.002"/>
+  <testcase name="testAddCar()" classname="com.example.myservice.services.CarServiceTest" time="0.001"/>
+  <testcase name="testGetCarByPlateNumber()" classname="com.example.myservice.services.CarServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
